@@ -1,0 +1,29 @@
+.intro {
+    color: white;
+    background-color: rgba(0,0,0,1);
+    padding: 10px;
+    opacity: .6;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.button {
+    border: 10px solid green;
+    justify-items: flex-end;
+}
+
+button{
+    display:table-row;
+    padding: 30px;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    background-color: white;  
+}
+
+.intro h2 {
+position: 50%;
+text-align: center;
+}
